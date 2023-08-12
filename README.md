@@ -1,1 +1,1 @@
-# AI-Desktop-Assitant
+Digital-Travel-Assistant
